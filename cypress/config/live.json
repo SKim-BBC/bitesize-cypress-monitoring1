@@ -1,0 +1,12 @@
+{
+    "baseUrl": "https://www.bbc.co.uk/bitesize",
+    "env": {
+        "apiURL1": "https://activity.api.bbc.co.uk/my/follows?resourcedomain=learning",
+        "apiURL2": "https://activity.api.bbc.co.uk/my/favourites?resourcedomain=learning",
+        "apiKey": "f84u0qqpuquhr",
+        "accountUrl": "https://account.bbc.com",
+        "sessionUrl": "https://session.bbc.co.uk",
+        "blockUrl": "https://www.bbc.com/education/blocks/article/z4xpsrd",
+        "ownitUrl": "https://www.bbc.com/ownit/curations/telling-fact-from-fake-news"
+    }
+}

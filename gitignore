@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+results/*.html
+results/*.json
+results/junit
+results/screenshots
+cypress/videos/
+cypress/screenshots/
+.idea/
+cypress.env.json
